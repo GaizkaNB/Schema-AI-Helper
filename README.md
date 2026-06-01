@@ -6,7 +6,7 @@ This repository is not an official Schema.org project. The source documentation 
 
 ## Included Packages
 
-### First Run: `2026-05-29_type-property-enumeration-member/`
+### First Run: `type-property-enumeration-member/`
 
 This is the first generated Schema.org knowledge package.
 
